@@ -1,4 +1,4 @@
-# coding=UTF-8
+# coding=UTF-8#利用pexpect模块的交互功能来实现自动化登录ssh然后可以利用自动化的过程猜解ssh密码也叫做ssh密码爆破ssh登录后可远程执行命令
 
 import pexpect
 

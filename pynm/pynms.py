@@ -1,4 +1,4 @@
-#!/usr/bin/python
+#!/usr/bin/python #python导入python-nmap模块可以调用nmap的一些接口来实现一些nmap中的功能
 # -*- coding: UTF-8 -*-
 
 import optparse #

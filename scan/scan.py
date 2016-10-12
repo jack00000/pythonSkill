@@ -1,4 +1,4 @@
-# coding=UTF-8
+# coding=UTF-8#利用socket建立连接来测试端口是否打开，也叫全连接端口扫描
 import optparse
 import socket
 
