@@ -1,5 +1,5 @@
 # coding=UTF-8#利用pexpect模块的交互功能来实现自动化登录ssh然后可以利用自动化的过程猜解ssh密码也叫做ssh密码爆破ssh登录后可远程执行命令
-
+#对上次的sshzmb.py进行改进增加了爆破功能，基本上是能实现了，还存在不完美的地方，没有加入多线程
 import pexpect
 import time
 
